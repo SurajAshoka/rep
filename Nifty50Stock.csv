@@ -1,4 +1,4 @@
-Company Name,Industry,% Change in 1 Year
+Company Name,Industry,Change in 1 Year
 3M India Ltd,SERVICES,-15.38
 Aarti Industries Ltd,CHEMICALS,35.88
 Aavas Financiers Ltd,FINANCIAL SERVICES,-0.86
@@ -44,9 +44,9 @@ Bajaj Consumer Care Ltd,CONSUMER GOODS,-55.86
 Bajaj Electricals Ltd,CONSUMER GOODS,-40.47
 Bajaj Finance Ltd,FINANCIAL SERVICES,-25.12
 Bajaj Finserv Ltd,FINANCIAL SERVICES,-32.13
-Bajaj Holdings & Investment Ltd,FINANCIAL SERVICES,-33.97
+Bajaj Holdings and Investment Ltd,FINANCIAL SERVICES,-33.97
 Balkrishna Industries Ltd,AUTOMOBILE,2.24
-Balmer Lawrie & Co Ltd,INDUSTRIAL MANUFACTURING,-11.19
+Balmer Lawrie and Co Ltd,INDUSTRIAL MANUFACTURING,-11.19
 Balrampur Chini Mills Ltd,CONSUMER GOODS,-34.16
 Bandhan Bank Ltd,FINANCIAL SERVICES,-56.23
 Bank of Baroda,FINANCIAL SERVICES,-57.82
@@ -67,7 +67,7 @@ Birla Corporation Ltd,CEMENT & CEMENT PRODUCTS,-18.57
 Blue Dart Express Ltd,SERVICES,-32.1
 Blue Star Ltd,CONSUMER GOODS,-21.22
 Bombay Burmah Trading Corporation Ltd,CONSUMER GOODS,-27.48
-Bombay Dyeing & Manufacturing Co Ltd,CONSTRUCTION,-54.15
+Bombay Dyeing and Manufacturing Co Ltd,CONSTRUCTION,-54.15
 Bosch Ltd,AUTOMOBILE,-41.1
 Brigade Enterprises Ltd,CONSTRUCTION,-19.2
 Britannia Industries Ltd,CONSUMER GOODS,9.31
@@ -87,7 +87,7 @@ Central Depository Services (India) Ltd,FINANCIAL SERVICES,-3.53
 Century Plyboards (India) Ltd,CONSUMER GOODS,-29.8
 Cera Sanitaryware Ltd,CONSTRUCTION,-21.4
 CESC Ltd,POWER,-6.45
-Chambal Fertilizers & Chemicals Ltd,FERTILISERS & PESTICIDES,-16.56
+Chambal Fertilizers and Chemicals Ltd,FERTILISERS & PESTICIDES,-16.56
 Chennai Petroleum Corporation Ltd,OIL & GAS,-75.37
 Cholamandalam Financial Holdings Ltd,FINANCIAL SERVICES,-42.59
 Cipla Ltd,PHARMA,4.35
@@ -145,7 +145,7 @@ Galaxy Surfactants Ltd,CHEMICALS,34.97
 Garware Technical Fibres Ltd,TEXTILES & PAPER,17.72
 Gayatri Projects Ltd,CONSTRUCTION,-91.37
 GE Power India Ltd,INDUSTRIAL MANUFACTURING,-50.7
-GE T&D India Ltd,INDUSTRIAL MANUFACTURING,-66.56
+GE TandD India Ltd,INDUSTRIAL MANUFACTURING,-66.56
 General Insurance Corporation of India,FINANCIAL SERVICES,-41.72
 GHCL Ltd,CHEMICALS,-58.54
 Gillette India Ltd,CONSUMER GOODS,-29.27
@@ -161,12 +161,12 @@ Graphite India Ltd,INDUSTRIAL MANUFACTURING,-45.58
 Grasim Industries Ltd,CEMENT & CEMENT PRODUCTS,-43.97
 Greaves Cotton Ltd,INDUSTRIAL MANUFACTURING,-46.17
 Grindwell Norton Ltd,INDUSTRIAL MANUFACTURING,-14.92
-Gujarat Alkalies & Chemicals Ltd,CHEMICALS,-25.05
+Gujarat Alkalies and Chemicals Ltd,CHEMICALS,-25.05
 Gujarat Gas Ltd,OIL & GAS,62.79
 Gujarat Mineral Development Corporation Ltd,METALS,12.44
 Gujarat Narmada Valley Fertilizers and Chemicals Ltd,CHEMICALS,-91.77
 Gujarat Pipavav Port Ltd,SERVICES,-34.51
-Gujarat State Fertilizers & Chemicals Ltd,FERTILISERS & PESTICIDES,-55.18
+Gujarat State Fertilizers and Chemicals Ltd,FERTILISERS & PESTICIDES,-55.18
 Gujarat State Petronet Ltd,OIL & GAS,3.68
 Gulf Oil Lubricants India Ltd,OIL & GAS,-31.11
 HEG Ltd,INDUSTRIAL MANUFACTURING,-37.6
@@ -188,7 +188,7 @@ Hindustan Copper Ltd,METALS,-43.43
 Hindustan Unilever Ltd,CONSUMER GOODS,24.88
 Hindustan Zinc Ltd,METALS,-36.93
 Honeywell Automation India Ltd,INDUSTRIAL MANUFACTURING,19.11
-Housing & Urban Development Corporation Ltd,FINANCIAL SERVICES,-38.77
+Housing and Urban Development Corporation Ltd,FINANCIAL SERVICES,-38.77
 Housing Development Finance Corporation Ltd,FINANCIAL SERVICES,-24.36
 ICICI Bank Ltd,FINANCIAL SERVICES,-6.71
 ICICI Lombard General Insurance Company Ltd,FINANCIAL SERVICES,18.04
@@ -220,18 +220,18 @@ Ipca Laboratories Ltd,PHARMA,69.94
 IRB Infrastructure Developers Ltd,CONSTRUCTION,-43.03
 ITC Ltd,CONSUMER GOODS,-39.59
 ITI Ltd,TELECOM,-4.08
-JB Chemicals & Pharmaceuticals Ltd,PHARMA,61.99
+JB Chemicals and Pharmaceuticals Ltd,PHARMA,61.99
 JK Cement Ltd,CEMENT & CEMENT PRODUCTS,23.91
 Jagran Prakashan Ltd,MEDIA & ENTERTAINMENT,-62.97
 Jai Corp Ltd,INDUSTRIAL MANUFACTURING,-39.09
-Jammu & Kashmir Bank Ltd,FINANCIAL SERVICES,-75.39
+Jammu and Kashmir Bank Ltd,FINANCIAL SERVICES,-75.39
 Jamna Auto Industries Ltd,AUTOMOBILE,-52.42
 Jindal Saw Ltd,METALS,-31.2
 Jindal Stainless (Hisar) Ltd,METALS,-49.08
 Jindal Stainless Ltd,METALS,-16.58
 JK Lakshmi Cement Ltd,CEMENT & CEMENT PRODUCTS,-46.33
 JK Paper Ltd,TEXTILES & PAPER,-28.28
-JK Tyre & Industries Ltd,AUTOMOBILE,-40.73
+JK Tyre and Industries Ltd,AUTOMOBILE,-40.73
 JM Financial Ltd,FINANCIAL SERVICES,-25.65
 Johnson Controls - Hitachi Air Conditioning India Ltd,CONSUMER GOODS,27.64
 JSW Energy Ltd,POWER,-36.15
@@ -254,11 +254,11 @@ Kolte-Patil Developers Ltd,CONSTRUCTION,-26.77
 Kotak Mahindra Bank Ltd,FINANCIAL SERVICES,-2.12
 KPIT Technologies Ltd,IT,-22.17
 KRBL Ltd,CONSUMER GOODS,-42.31
-L&T Finance Holdings Ltd,FINANCIAL SERVICES,-49.96
-L&T Technology Services Ltd,IT,-28.9
+LandT Finance Holdings Ltd,FINANCIAL SERVICES,-49.96
+LandT Technology Services Ltd,IT,-28.9
 Lakshmi Machine Works Ltd,INDUSTRIAL MANUFACTURING,-57.67
-Larsen & Toubro Infotech Ltd,IT,-7.22
-Larsen & Toubro Ltd,CONSTRUCTION,-33.44
+Larsen and Toubro Infotech Ltd,IT,-7.22
+Larsen and Toubro Ltd,CONSTRUCTION,-33.44
 Laurus Labs Ltd,PHARMA,34.06
 Lemon Tree Hotels Ltd,SERVICES,-76.53
 LIC Housing Finance Ltd,FINANCIAL SERVICES,-42.98
@@ -269,13 +269,13 @@ Magma Fincorp Ltd,FINANCIAL SERVICES,-51.08
 Mahanagar Gas Ltd,OIL & GAS,-53.11
 Maharashtra Scooters Ltd,AUTOMOBILE,-38.7
 Maharashtra Seamless Ltd,METALS,0.71
-Mahindra & Mahindra Financial Services Ltd,FINANCIAL SERVICES,-58.58
-Mahindra & Mahindra Ltd,AUTOMOBILE,-43.18
+Mahindra and Mahindra Financial Services Ltd,FINANCIAL SERVICES,-58.58
+Mahindra and Mahindra Ltd,AUTOMOBILE,-43.18
 Mahindra CIE Automotive Ltd,INDUSTRIAL MANUFACTURING,-58.27
-Mahindra Holidays & Resorts India Ltd,SERVICES,-44.13
+Mahindra Holidays and Resorts India Ltd,SERVICES,-44.13
 Mahindra Logistics Ltd,SERVICES,-51.84
 Manappuram Finance Ltd,FINANCIAL SERVICES,13.73
-Mangalore Refinery & Petrochemicals Ltd,OIL & GAS,-54.84
+Mangalore Refinery and Petrochemicals Ltd,OIL & GAS,-54.84
 Marico Ltd,CONSUMER GOODS,-20.14
 Maruti Suzuki India Ltd,AUTOMOBILE,-19.61
 MAS Financial Services Ltd,FINANCIAL SERVICES,4.02
@@ -301,7 +301,7 @@ NBCC (India) Ltd,CONSTRUCTION,-65.83
 NCC Ltd,CONSTRUCTION,-73.79
 NESCO Ltd,SERVICES,-9.2
 Nestle India Ltd,CONSUMER GOODS,64.37
-Network18 Media & Investments Ltd,MEDIA & ENTERTAINMENT,-32.08
+Network18 Media and Investments Ltd,MEDIA & ENTERTAINMENT,-32.08
 NHPC Ltd,POWER,-10.92
 NIIT Technologies Ltd,IT,-6.96
 Nilkamal Ltd,INDUSTRIAL MANUFACTURING,-18.66
@@ -310,7 +310,7 @@ NLC India Ltd,POWER,-31.02
 NMDC Ltd,METALS,-19.81
 NTPC Ltd,POWER,-29.09
 Oberoi Realty Ltd,CONSTRUCTION,-32.09
-Oil & Natural Gas Corporation Ltd,OIL & GAS,-52.78
+Oil and Natural Gas Corporation Ltd,OIL & GAS,-52.78
 Oil India Ltd,OIL & GAS,-45.37
 Omaxe Ltd,CONSTRUCTION,-26.8
 Oracle Financial Services Software Ltd,IT,-33.32
@@ -334,7 +334,7 @@ Power Grid Corporation of India Ltd,POWER,-13.06
 Praj Industries Ltd,INDUSTRIAL MANUFACTURING,-55.14
 Prestige Estates Projects Ltd,CONSTRUCTION,-33.42
 Prism Johnson Ltd,CEMENT & CEMENT PRODUCTS,-59.35
-Procter & Gamble Health Ltd,PHARMA,3.46
+Procter and Gamble Health Ltd,PHARMA,3.46
 PTC India Ltd,POWER,-42.48
 Punjab National Bank,FINANCIAL SERVICES,-61.96
 PVR Ltd,MEDIA & ENTERTAINMENT,-42.76
@@ -344,8 +344,8 @@ Rail Vikas Nigam Ltd,CONSTRUCTION,-22.68
 Rain Industries Ltd,CHEMICALS,-38.34
 Rajesh Exports Ltd,CONSUMER GOODS,-8.27
 Rallis India Ltd,FERTILISERS & PESTICIDES,44.49
-Rashtriya Chemicals & Fertilizers Ltd,FERTILISERS & PESTICIDES,-30.94
-Ratnamani Metals & Tubes Ltd,METALS,2.22
+Rashtriya Chemicals and Fertilizers Ltd,FERTILISERS & PESTICIDES,-30.94
+Ratnamani Metals and Tubes Ltd,METALS,2.22
 Raymond Ltd,TEXTILES & PAPER,-68.74
 RBL Bank Ltd,FINANCIAL SERVICES,-80.53
 REC Ltd,FINANCIAL SERVICES,-35.24
@@ -406,7 +406,7 @@ TCI Express Ltd,SERVICES,4.97
 TCNS Clothing Co Ltd,TEXTILES & PAPER,-52.08
 Teamlease Services Ltd,SERVICES,-46.11
 Tech Mahindra Ltd,IT,-34.67
-Techno Electric & Engineering Company Ltd,CONSTRUCTION,-14.18
+Techno Electric and Engineering Company Ltd,CONSTRUCTION,-14.18
 The New India Assurance Company Ltd,FINANCIAL SERVICES,-33.47
 The Ramco Cements Ltd,CEMENT & CEMENT PRODUCTS,-28.63
 Thermax Ltd,INDUSTRIAL MANUFACTURING,-25.61
